@@ -1,10 +1,16 @@
 {
   "names": {
-    "dysnotmy": "801ae0b1067bfeac8d766a08d0d7d5ff5a6bae3d4334743dec70d917a9861b31"
+    "dysnotmy": "801ae0b1067bfeac8d766a08d0d7d5ff5a6bae3d4334743dec70d917a9861b31",
+    "PigIllustrated": "ecdfda650fc0c960b8ff6f56645d163e260fc9dc4e438e68941035e35b7f4756"
   },
   "relays": {
     "801ae0b1067bfeac8d766a08d0d7d5ff5a6bae3d4334743dec70d917a9861b31": [
-      "wss://relay.454474.xyz"
+      "wss://relay.454474.xyz",
+      "wss://relay.ditto.pub"
+    ],
+    "ecdfda650fc0c960b8ff6f56645d163e260fc9dc4e438e68941035e35b7f4756": [
+      "wss://relay.454474.xyz",
+      "wss://relay.ditto.pub"
     ]
   }
 }
