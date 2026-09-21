@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+      const params = window.location.search;
+      window.location.replace("https://hollo.454474.xyz/.well-known/webfinger" + params);
+    </script>
+  </head>
+  <body></body>
+</html>
